@@ -61,3 +61,6 @@ ul > li {
   padding: 2em;
 }
 
+i:hover {
+  color: teal;
+}
